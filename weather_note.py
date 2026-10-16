@@ -1,4 +1,4 @@
 city = "Indore"
-condition = "Clear"
+condition = "Cloudy"
 print("City:", city)
 print("Condition:", condition)
